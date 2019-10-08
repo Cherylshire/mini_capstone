@@ -1,0 +1,18 @@
+{
+  id: supplier.id,
+  name: supplier.name,
+  email: supplier.email,
+  phone_number: supplier.phone_number
+}
+
+# Scene in Austin "image_url": "https://images.squarespace-cdn.com/content/v1/5b846691aa49a1b7c058ef56/1548965118317-KL7290GNEIM9SVBTSB2E/ke17ZwdGBToddI8pDm48kNNWfxi9rA3Aw1JQuo4T19UUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc6xjZ1OvQOIi5ONI0t7FUjhAG3LrtNUwTHocs7fYVzwVcEzFqeDMuZ5-1JUQBwxXf/89EE31DC-33B8-4F59-88C8-9CC47682AE45.jpeg?format=1500w"
+
+# Game Bottom "image_url": "https://images.squarespace-cdn.com/content/v1/5b846691aa49a1b7c058ef56/1548962609655-ZSR55O8XRU0VSGUJEHQY/ke17ZwdGBToddI8pDm48kI-m1vJaeVyBJ-0bE7B6LhB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USaCaAzyhjUtjQsbfE2pAc-pZBu-PTOBzBHq-qiFsJR-ZtJ3qR9G2BYeA0wOAaeYNg/5ADFA418-90D0-40D1-B35E-5E7DFBC60971.png?format=750w"
+
+# Banana Flower "image_url": "https://images.squarespace-cdn.com/content/v1/5b846691aa49a1b7c058ef56/1535404538345-HS5SLTXHYEDIJ4U6BYH0/ke17ZwdGBToddI8pDm48kJbosy0LGK_KqcAZRQ_Qph1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyRoXPauM_hSH3XAFUMH3fmO1jdMVKkonRM0cGdyUtJRnZ7FnwXS6LE3CJOOwAGcs0/30319_119746041381333_1426536_n.jpg?format=750w"
+
+# Cocoa tree     "image_url": "https://i.pinimg.com/originals/e8/52/ba/e852ba23947e131d2d9259aa0d63d200.jpg",
+
+# Hogwarts "image_url": "https://i.kinja-img.com/gawker-media/image/upload/s--kUOhL9jt--/c_scale,f_auto,fl_progressive,q_80,w_800/d2mvob6xt9mnegclno2k.jpg"
+
+# Rivendell "image_url": "https://www.geekalerts.com/u/Lord-of-the-Rings-Rivendell-Enviroment-Statue.jpg"

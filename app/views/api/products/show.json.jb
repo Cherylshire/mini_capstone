@@ -1,0 +1,3 @@
+render partial: "product.json.jb", locals: {product: @product}
+
+# this file is exactly the same as _product.json.jb , the partial file.

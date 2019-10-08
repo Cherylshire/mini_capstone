@@ -1,0 +1,21 @@
+{
+id:          product.id,
+name:        product.name,
+price:       product.price,
+tax:         product.tax,
+total:       product.total,
+description: product.description,
+images:      product.images.map {
+                                 |image| render partial: "api/images/image.json.jb", 
+                                 locals: {image: image} 
+                                 },
+is_discounted: product.is_discounted?,  #defind key: calling_value
+supplier_name: product.supplier.name,
+supplier: (
+          render partial: "api/suppliers/supplier.json.jb", 
+          locals: {supplier: product.supplier}
+          ),
+category_names: product.category_names
+}
+
+# this is the partial file, this file is repeatly used in the view files"index.json.jb" and "show.json.jb". So coders don't need to rewrite it 20 times.

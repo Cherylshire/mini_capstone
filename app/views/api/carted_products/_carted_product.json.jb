@@ -1,0 +1,16 @@
+{
+id:           carted_product.id,
+status:       carted_product.status,
+product:      (render partial: "api/products/product.json.jb", locals: {product: carted_product.product}),
+quantity:     carted_product.quantity,
+user_id:      carted_product.user_id,
+order_id:     carted_product.order_id
+}
+
+# {
+# id:           @carted_product.id,
+# status:       @carted_product.status,
+# product_id:   @carted_product.product_id,
+# quantity:     @carted_product.quantity,
+
+# }
